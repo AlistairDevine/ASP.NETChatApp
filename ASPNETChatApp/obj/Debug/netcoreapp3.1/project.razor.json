@@ -14392,6 +14392,11 @@
   "RootNamespace": "ASPNETChatApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\alist\\OneDrive\\Documents\\GitHub\\ASP.NETChatApp\\ASPNETChatApp\\Views\\Shared\\Layout.cshtml",
+      "TargetPath": "Views\\Shared\\Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\alist\\OneDrive\\Documents\\GitHub\\ASP.NETChatApp\\ASPNETChatApp\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -14404,11 +14409,6 @@
     {
       "FilePath": "c:\\Users\\alist\\OneDrive\\Documents\\GitHub\\ASP.NETChatApp\\ASPNETChatApp\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alist\\OneDrive\\Documents\\GitHub\\ASP.NETChatApp\\ASPNETChatApp\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],

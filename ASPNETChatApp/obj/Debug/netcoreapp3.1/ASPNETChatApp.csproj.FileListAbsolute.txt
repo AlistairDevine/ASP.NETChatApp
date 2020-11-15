@@ -19,7 +19,6 @@ C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\ASPNETChatApp.TagHelpers.input.cache
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\ASPNETChatApp.TagHelpers.output.cache
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\ASPNETChatApp.RazorCoreGenerate.cache
-C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\ASPNETChatApp.RazorTargetAssemblyInfo.cache
@@ -32,3 +31,4 @@ C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\ASPNETChatApp.genruntimeconfig.cache
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\ASPNETChatApp.csproj.CopyComplete
 C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alist\OneDrive\Documents\GitHub\ASP.NETChatApp\ASPNETChatApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
